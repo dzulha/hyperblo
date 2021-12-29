@@ -1,7 +1,6 @@
 body
 {
-<<<<<<< HEAD
-   color: #333; 
+   color: red; 
    text-align: center;
    font-family: 'Courier New', Courier, monospace;
    font-sizer: 16px;
@@ -15,14 +14,6 @@ body
    text-align: left;
    border: 1px solid #DDD;
    margin: 0 auto;
-=======
-    color: #333;
-    text-align: center;
-    font-family: Arial;
-    font-size: 16px;
-    margin: 0;
-    padding: 0;
->>>>>>> cabecera
 }
 
 #cabecera
